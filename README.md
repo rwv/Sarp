@@ -5,6 +5,8 @@ Branches "[base-alpine](https://github.com/Mitsuhaxy/Sarp/tree/base-alpine)" be 
 # How to use:
 1.Build image:
 ```
+git clone https://github.com/Mitsuhaxy/Sarp.git
+cd ./Sarp
 docker build -t sarp .
 ```
   

@@ -1,5 +1,5 @@
 *Shadowsocks-libev+Warp(Base-Ubuntu)*  
-Host need 5.6+ kernel  
+Host need 5.4+ kernel  
 Branches "[base-alpine](https://github.com/Mitsuhaxy/Sarp/tree/base-alpine)" be use.[RECOMMEND]  
   
 # How to use:

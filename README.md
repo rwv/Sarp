@@ -17,3 +17,5 @@ docker build -t sarp:alpine .
 ```
 docker-compose up -d
 ```
+
+Centos view [wireguard docment](https://www.wireguard.com/install/#centos-7-module-plus-module-kmod-module-dkms-tools)
